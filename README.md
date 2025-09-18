@@ -1,4 +1,4 @@
-# web-dev-starter
+# CS408 Module 4 Lab
 
 This is a starter project for web development with no frameworks and minimal
 dependencies. It is intended to be a starting point for web development projects
@@ -27,3 +27,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Sources Used
+https://www.w3schools.com/cssref/css_units.php
+https://stackoverflow.com/questions/2789703/remove-blue-underline-from-link
+https://www.w3schools.com/css/css3_flexbox_container.asp
+https://www.w3schools.com/css/css_grid.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
