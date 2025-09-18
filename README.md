@@ -28,9 +28,14 @@ To run the tests for the project, run the following command:
 npm test
 ```
 
+## How to Run
+Clone the Repository locally <br>
+Open in Visual Studio Code <br>
+Run the Website using the VSCode Live Server extension <br>
+
 ## Sources Used
-https://www.w3schools.com/cssref/css_units.php
-https://stackoverflow.com/questions/2789703/remove-blue-underline-from-link
-https://www.w3schools.com/css/css3_flexbox_container.asp
-https://www.w3schools.com/css/css_grid.asp
+https://www.w3schools.com/cssref/css_units.php <br>
+https://stackoverflow.com/questions/2789703/remove-blue-underline-from-link <br>
+https://www.w3schools.com/css/css3_flexbox_container.asp <br>
+https://www.w3schools.com/css/css_grid.asp <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/display
